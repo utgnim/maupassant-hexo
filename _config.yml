@@ -121,25 +121,25 @@ menu:
 
 widgets: ## Seven widgets in sidebar provided: search, info, category, tag, recent_posts, recent_comments and links.
   - search
-#  - info
-#  - category
-  - tag
+  - info
+  - category
+#  - tag
   - recent_posts
   - recent_comments
   - links
 
 info:
-  avatar: /img/avatar.png
+  avatar: /img/49590221.png
   discription: To be a better man.
   outlinkitem:
-    - name: twitter
-      outlink: https://twitter.com/username
-      message: Twitter
+#    - name: twitter
+#      outlink: https://twitter.com/username
+#      message: Twitter
     - name: envelope
-      outlink: mailto:admin@domain.com
+      outlink: mailto:utgnim@hotmail.com
       message: Email
     - name: github
-      outlink: https://github.com/username
+      outlink: https://github.com/utgnim
       message: Github
     - name: rss
       outlink: /atom.xml
